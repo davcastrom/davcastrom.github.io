@@ -12,4 +12,4 @@ I'm interested in how plants sense and responds to environmetal stressors and th
 
 Here are some of my [hobbies](/Hobbies).
 
-Here you can see my [curriculum vittae](/cv).
+Here you can see my [curriculum vitae](/cv).
