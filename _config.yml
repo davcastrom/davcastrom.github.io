@@ -1,3 +1,24 @@
-theme: jekyll-theme-midnight
-title: "David's homepage"
-description: Few information about me. Current and future projects
+---
+title: David Castro
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: david.castro.moraga@gmail.com
+description: David Castro Moraga, Researcher with focus in plant response to drought stress & plant-microbiome interactions.
+baseurl: ''
+url: http://davcastrom.github.io
+twitter_username: DavidCastro
+github_username: DavidCastro
+linkedin_username: DavidCastro
+researchgate_username: DavidCastro
+future: true
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
