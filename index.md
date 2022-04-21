@@ -1,6 +1,10 @@
-# Hi! I'm David. Welcome to my Page!
+---
+title: About me
+permalink: "/"
+layout: page
+---
 
-## About me
+# Hi! I'm David. Welcome to my Page!
 
 I'm a Master in Ecology and an bioinformatics/tech enthusiast originally from Chile. Currently, I'm finishing my PhD in Biology at the Swedish University of Agricultura Sciences in Umeå, Sweden.
 
