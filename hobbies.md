@@ -1,6 +1,6 @@
 ---
 title: Hobbies
-permalink: "/Hobbies"
+permalink: "/hobbies"
 layout: page
 ---
 
