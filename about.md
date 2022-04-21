@@ -1,3 +1,9 @@
+---
+title: About me
+permalink: "/"
+layout: page
+---
+
 # hobbies
 
 * Drawing
