@@ -10,6 +10,6 @@ I'm a Master in Ecology and an bioinformatics/tech enthusiast originally from Ch
 
 I'm interested in how plants sense and responds to environmetal stressors and the modulation of plant-microbiome interactions.
 
-Here are some of my [hobbies](/Hobbies).
+Here are some of my [hobbies](/hobbies).
 
 Here you can see my [curriculum vitae](/cv).
