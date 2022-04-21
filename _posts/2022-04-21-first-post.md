@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "First post here!"
+date: 2022-04-21
+categories: random
 ---
 
 Hi!
