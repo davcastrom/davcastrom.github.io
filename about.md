@@ -1,10 +1,8 @@
 ---
-title: About me
-permalink: "/"
+title: Hobbies
+permalink: "/Hobbies"
 layout: page
 ---
-
-# hobbies
 
 * Drawing
 * Play videogames
