@@ -1,12 +1,3 @@
 name: David Castro
-timezone: UTC
-email: david.castro.moraga@gmail.com
-description: David Castro Moraga, Researcher with focus in plant response to drought stress & plant-microbiome interactions.
-baseurl: ''
-url: http://davcastrom.github.io
-#twitter_username: DavidCastro
-#github_username: DavidCastro
-#linkedin_username: DavidCastro
-#researchgate_username: DavidCastro
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
