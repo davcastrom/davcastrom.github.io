@@ -1,6 +1,6 @@
 ---
 layout: default
-title: David Castro, Msc
+title: David Castro, PhD
 ---
 <div class="blurb">
 	<h1>Hi there, I'm David Castro!</h1>
