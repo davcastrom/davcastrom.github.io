@@ -52,3 +52,7 @@ table, th, td {
     border-collapse: collapse;
     empty-cells: show;
   }
+
+  ul, li {
+    font-size: 1.5em;
+  }
