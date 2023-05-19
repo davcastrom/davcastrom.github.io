@@ -52,4 +52,5 @@ table, th, td {
     font-size: 1em;
     border: 1px solid black;
     border-collapse: collapse;
+    empty-cells: show;
   }
