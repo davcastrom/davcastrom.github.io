@@ -43,5 +43,6 @@ ul.posts li {
 }
 
 table, th, td {
-    border-style: solid black;
+    border: 1px solid black;
+    border-collapse: collapse;
   }
