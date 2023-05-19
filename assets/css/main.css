@@ -59,10 +59,14 @@ table, th, td {
     empty-cells: show;
   }
 
-th, td {
+td {
     font-size: 1.2em;
   }
 
-  ul, li {
+dt, dd {
+    font-size: 1.2em;
+  }
+
+li {
     font-size: 1.2em;
   }
