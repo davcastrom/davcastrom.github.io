@@ -13,7 +13,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-size: 1.5em;
 }
 
 a {
@@ -49,7 +48,6 @@ ul.posts li {
 }
 
 table, th, td {
-    font-size: 1em;
     border: 1px solid black;
     border-collapse: collapse;
     empty-cells: show;
