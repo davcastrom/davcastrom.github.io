@@ -51,7 +51,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .brand { display: inline-flex; align-items: center; gap: 10px; color: var(--text); font: 600 .7rem var(--mono); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
 .brand-symbol { display: block; width: 64px; height: 42px; flex: 0 0 auto; }
 .brand-copy { display: flex; align-items: center; gap: 10px; }
-.brand-copy strong { color: var(--accent); font: 1.35rem/1 var(--display); letter-spacing: .05em; }
+.brand-copy strong { color: var(--accent); font: 3rem/.9 var(--display); letter-spacing: .05em; }
 .brand-copy small { color: var(--text); font: 600 .57rem/1.25 var(--mono); letter-spacing: .08em; text-transform: uppercase; }
 .site-nav ul { display: flex; align-items: center; gap: 27px; margin: 0; padding: 0; list-style: none; }
 .site-nav a { color: var(--muted); font: 500 .75rem var(--mono); letter-spacing: .04em; text-transform: uppercase; }
