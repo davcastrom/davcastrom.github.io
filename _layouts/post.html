@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% if page.image %}
+<p class="gallery-back"><a class="button secondary" href="{{ '/blog/' | relative_url }}">← Volver a la galería</a></p>
+{% endif %}
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
