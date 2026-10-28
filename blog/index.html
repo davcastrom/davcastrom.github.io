@@ -1,0 +1,33 @@
+---
+layout: default
+title: Field Gallery | David Castro
+permalink: /blog/
+---
+
+<p class="section-label">Field gallery</p>
+<h1>Notes from the field</h1>
+<p class="section-intro">A visual notebook of the forests, fungi, fieldwork, and research behind my work.</p>
+
+{% assign gallery_posts = site.posts | where_exp: "post", "post.image" %}
+{% if gallery_posts.size > 0 %}
+<div class="gallery-grid">
+  {% for post in gallery_posts %}
+  <article class="photo-card">
+    <a class="photo-link" href="{{ post.url | relative_url }}">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy">
+      <div class="photo-caption">
+        <span class="publication-year">{{ post.date | date: "%Y" }}{% if post.location %} · {{ post.location | escape }}{% endif %}</span>
+        <h2>{{ post.title }}</h2>
+        {% if post.image_caption %}<p>{{ post.image_caption | escape }}</p>{% endif %}
+      </div>
+    </a>
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<div class="gallery-empty">
+  <span class="card-index">FIELD NOTES / 001</span>
+  <h2>The gallery is taking shape.</h2>
+  <p>Photos and short stories from fieldwork will appear here. In the meantime, explore the <a href="{{ '/#research' | relative_url }}">research</a> or <a href="mailto:david.castro.moraga@gmail.com">get in touch</a>.</p>
+</div>
+{% endif %}
